@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               App-Skate
-version:            0.042
-abstract:           Colorize input filenames just like ls does
+version:            0.043
+abstract:           Cat with syntax highlighting powers
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
 license:            perl
