@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-Skate
-version:            0.044
+version:            0.054
 abstract:           Cat with syntax highlighting powers
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
